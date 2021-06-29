@@ -1,5 +1,4 @@
 /*
-*This script runs in Photoshop on Windows. Use Cylere.jsx for cross-compatibility
 *The script begins by resizing the width of the Photoshop canvas to a constant DISTORTION
 *Then, after defining variables based on the canvas size, it will progressively scroll from the center
 *of the canvas to the top and bottom of the canvas simulatenously.
